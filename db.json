@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "apples",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 12,
+      "comment": "It is sweet",
+      "date": "2024-01-04T23:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "cucumber",
+      "category": "Vegtables",
+      "freshness": "Brand New",
+      "price": 10,
+      "comment": "It is not fresh.",
+      "date": "2024-01-02T23:00:00.000Z",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
